@@ -1,4 +1,4 @@
-# api-rest-js-practico
+# API-REST-JS-PRACTICO
 
 Curso de consumo de API REST con Axios en JavaScript
 
